@@ -1,0 +1,5 @@
+#Pip files
+venv310/
+
+#Environment keys
+.env
