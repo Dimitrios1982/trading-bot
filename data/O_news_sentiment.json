@@ -1,0 +1,2899 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "How Is The Market Feeling About Realty Income? - Realty Income  ( NYSE:O ) ",
+      "url": "https://www.benzinga.com/short-sellers/23/12/36415496/how-is-the-market-feeling-about-realty-income",
+      "time_published": "20231228T180020",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "Realty Income's O short percent of float has risen 39.55% since its last report. The company recently reported that it has 27.02 million shares sold short, which is 4.34% of all regular shares that are available for trading.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2023/movers_image_5.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.365926"
+        }
+      ],
+      "overall_sentiment_score": 0.267332,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "O",
+          "relevance_score": "0.112008",
+          "ticker_sentiment_score": "0.083697",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "5 Stocks to Hold for the Next 20 Years",
+      "url": "https://www.fool.com/investing/2023/12/28/5-stocks-to-hold-for-the-next-20-years/",
+      "time_published": "20231228T143000",
+      "authors": [
+        "Jeff Santoro"
+      ],
+      "summary": "Buying and holding for the long term is a lot easier when you own great companies.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/759345/ourside-of-a-retail-location.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.858979"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.992549"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.285093,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHOP",
+          "relevance_score": "0.213517",
+          "ticker_sentiment_score": "0.222017",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.315493",
+          "ticker_sentiment_score": "0.13845",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ETSY",
+          "relevance_score": "0.213517",
+          "ticker_sentiment_score": "0.417796",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.265089",
+          "ticker_sentiment_score": "0.102458",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.16099",
+          "ticker_sentiment_score": "0.091385",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Simon Property  ( SPG )  Up 33% in 3 Months: Will the Trend Last?",
+      "url": "https://www.zacks.com/stock/news/2203116/simon-property-spg-up-33-in-3-months-will-the-trend-last",
+      "time_published": "20231228T140600",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Healthy demand for its premier properties amid a solid retail environment and focus on developing mixed-use assets are likely to drive Simon Property's (SPG) stock in the forthcoming quarters.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/7d/754.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.858979"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.381996,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCO",
+          "relevance_score": "0.048425",
+          "ticker_sentiment_score": "0.26201",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SPG",
+          "relevance_score": "0.238601",
+          "ticker_sentiment_score": "0.365646",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "EPRT",
+          "relevance_score": "0.144563",
+          "ticker_sentiment_score": "0.045053",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DBGI",
+          "relevance_score": "0.048425",
+          "ticker_sentiment_score": "0.299204",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.048425",
+          "ticker_sentiment_score": "0.034934",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Want Decades of Passive Income? 3 Stocks to Buy Now",
+      "url": "https://www.fool.com/investing/2023/12/28/want-decades-of-passive-income-3-stocks-to-buy-now/",
+      "time_published": "20231228T113000",
+      "authors": [
+        "Marc Rapport"
+      ],
+      "summary": "Consider this tobacco dividend king, \"the monthly dividend company,\" and a big index fund.",
+      "banner_image": "https://media.ycharts.com/charts/c96d97f209bfd6501791a9d608443c1b.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.29706,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BUD",
+          "relevance_score": "0.066414",
+          "ticker_sentiment_score": "0.106207",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRON",
+          "relevance_score": "0.066414",
+          "ticker_sentiment_score": "0.106207",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MO",
+          "relevance_score": "0.323078",
+          "ticker_sentiment_score": "0.19761",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PM",
+          "relevance_score": "0.132368",
+          "ticker_sentiment_score": "-0.049558",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.261117",
+          "ticker_sentiment_score": "0.269419",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SHAREHOLDER INVESTIGATION: Halper Sadeh LLC Investigates SRC, EAR, BVH, IMGN - Bluegreen Vacations  ( NYSE:BVH ) , Eargo  ( NASDAQ:EAR ) ",
+      "url": "https://www.benzinga.com/pressreleases/23/12/g36403146/shareholder-investigation-halper-sadeh-llc-investigates-src-ear-bvh-imgn",
+      "time_published": "20231227T194205",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "NEW YORK, Dec. 27, 2023 ( GLOBE NEWSWIRE ) -- Halper Sadeh LLC, an investor rights law firm, is investigating the following companies for potential violations of the federal securities laws and/or breaches of fiduciary duties to shareholders relating to: Spirit Realty Capital, Inc.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.156387,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BVH",
+          "relevance_score": "0.127456",
+          "ticker_sentiment_score": "0.097617",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SRC",
+          "relevance_score": "0.127456",
+          "ticker_sentiment_score": "0.207803",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "HGV",
+          "relevance_score": "0.127456",
+          "ticker_sentiment_score": "0.097617",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "EAR",
+          "relevance_score": "0.25168",
+          "ticker_sentiment_score": "0.271935",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IMGN",
+          "relevance_score": "0.127456",
+          "ticker_sentiment_score": "0.090608",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ABBV",
+          "relevance_score": "0.127456",
+          "ticker_sentiment_score": "0.090608",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.25168",
+          "ticker_sentiment_score": "0.324846",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Here's Why 2024 Could be Great for REITs: 4 Stocks to Buy Now",
+      "url": "https://www.zacks.com/stock/news/2202589/heres-why-2024-could-be-great-for-reits-4-stocks-to-buy-now",
+      "time_published": "20231227T141700",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "With the Fed's accommodative approach and several asset categories displaying favorable market fundamentals, REITs like EQIX, O, EGP and STAG seem well-poised to excel in 2024.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/06/58015.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.929393"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.285817,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STAG",
+          "relevance_score": "0.061081",
+          "ticker_sentiment_score": "0.244198",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "EQIX",
+          "relevance_score": "0.091509",
+          "ticker_sentiment_score": "0.068235",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CBRE",
+          "relevance_score": "0.030563",
+          "ticker_sentiment_score": "0.025773",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "EGP",
+          "relevance_score": "0.091509",
+          "ticker_sentiment_score": "0.130163",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.030563",
+          "ticker_sentiment_score": "0.159053",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "3 Robinhood Stocks to Buy and Hold Forever",
+      "url": "https://www.fool.com/investing/2023/12/27/3-robinhood-stocks-to-buy-and-hold-forever/",
+      "time_published": "20231227T111500",
+      "authors": [
+        "Jeremy Bowman"
+      ],
+      "summary": "Millennials love these stocks, and so should you.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F759249%2Fbuy-sell-hold-die-money.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.980922"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.744043"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.382859,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.057907",
+          "ticker_sentiment_score": "0.005003",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.057907",
+          "ticker_sentiment_score": "0.005003",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MA",
+          "relevance_score": "0.057907",
+          "ticker_sentiment_score": "0.198571",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.057907",
+          "ticker_sentiment_score": "0.005003",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "V",
+          "relevance_score": "0.337044",
+          "ticker_sentiment_score": "0.462584",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.057907",
+          "ticker_sentiment_score": "0.005003",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HOOD",
+          "relevance_score": "0.057907",
+          "ticker_sentiment_score": "0.103975",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.283542",
+          "ticker_sentiment_score": "0.219575",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.115509",
+          "ticker_sentiment_score": "0.096932",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "3 Phenomenal High-Yield Dividend Stocks to Buy Hand Over Fist in 2024 and Hold Forever",
+      "url": "https://www.fool.com/investing/2023/12/27/3-phenomenal-high-yield-dividend-stocks-to-buy-han/",
+      "time_published": "20231227T103700",
+      "authors": [
+        "Cory Renauer"
+      ],
+      "summary": "A combination of high yields and the strong likelihood of dividend raises in the future make these compelling stocks ready to buy now.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F759200%2Finvestor-stock-charts-laptop-getty.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.99999"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.335789,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCO",
+          "relevance_score": "0.052801",
+          "ticker_sentiment_score": "0.259816",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PFLT",
+          "relevance_score": "0.157483",
+          "ticker_sentiment_score": "0.039835",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SRC",
+          "relevance_score": "0.052801",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HCSG",
+          "relevance_score": "0.052801",
+          "ticker_sentiment_score": "0.048956",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ARCC",
+          "relevance_score": "0.308891",
+          "ticker_sentiment_score": "0.204047",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.157483",
+          "ticker_sentiment_score": "0.172785",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "STOCKHOLDER ALERT: The M&A Class Action Firm Continues Investigating the Merger - SRC, CSTR, NWLI, ROVR",
+      "url": "https://www.benzinga.com/pressreleases/23/12/g36392773/stockholder-alert-the-m-a-class-action-firm-continues-investigating-the-merger-src-cstr-nwli-rovr",
+      "time_published": "20231227T000723",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "NEW YORK, Dec. 26, 2023 ( GLOBE NEWSWIRE ) -- Juan Monteverde, founder and managing partner of the class action firm Monteverde & Associates PC ( the \"M&A Class Action Firm\" ) , a national securities firm rated Top 50 in the 2018-2022 ISS Securities Class Action Services Report and ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.928769"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.361645,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CSTR",
+          "relevance_score": "0.270523",
+          "ticker_sentiment_score": "0.313544",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NWLI",
+          "relevance_score": "0.270523",
+          "ticker_sentiment_score": "0.324491",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ONB",
+          "relevance_score": "0.068896",
+          "ticker_sentiment_score": "0.15962",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SRC",
+          "relevance_score": "0.270523",
+          "ticker_sentiment_score": "0.317482",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BX",
+          "relevance_score": "0.068896",
+          "ticker_sentiment_score": "0.123175",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.068896",
+          "ticker_sentiment_score": "0.161671",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ROVR",
+          "relevance_score": "0.270523",
+          "ticker_sentiment_score": "0.244531",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "2 Retirement Stocks to Buy for 2024",
+      "url": "https://www.fool.com/investing/2023/12/26/2-retirement-stocks-to-buy-for-2024/",
+      "time_published": "20231226T134500",
+      "authors": [
+        "Will Healy"
+      ],
+      "summary": "A unique combination of rising dividends and increasing stock prices could enrich retirees and those saving for retirement.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/759107/piggybank-with-blocks-spelling-2024.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.503496"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.839681"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.200465,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DG",
+          "relevance_score": "0.055236",
+          "ticker_sentiment_score": "0.044878",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MDNDF",
+          "relevance_score": "0.164656",
+          "ticker_sentiment_score": "0.136679",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSCO",
+          "relevance_score": "0.055236",
+          "ticker_sentiment_score": "0.044878",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.322374",
+          "ticker_sentiment_score": "0.220092",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "This Magnificent Dividend Stock Is the Gift That Keeps on Giving",
+      "url": "https://www.fool.com/investing/2023/12/26/this-magnificent-dividend-stock-is-the-gift-that/",
+      "time_published": "20231226T120000",
+      "authors": [
+        "Jennifer Saibil"
+      ],
+      "summary": "Monthly payments, a high yield, and a resilient model make this a top dividend stock.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F759021%2Frealty-income-occcupancy.png&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.365926"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.36927,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BJ",
+          "relevance_score": "0.063933",
+          "ticker_sentiment_score": "0.188291",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.622414",
+          "ticker_sentiment_score": "0.569151",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "WBA",
+          "relevance_score": "0.063933",
+          "ticker_sentiment_score": "0.188291",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.063933",
+          "ticker_sentiment_score": "0.188291",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bull Market Buys: 3 Dividend Stocks to Own for the Long Run",
+      "url": "https://www.fool.com/investing/2023/12/26/bull-market-buys-3-dividend-stocks-to-own-for-the/",
+      "time_published": "20231226T113400",
+      "authors": [
+        "Matthew DiLallo"
+      ],
+      "summary": "These dividend stocks could start their own bull run in 2024 as their headwind fades.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/759228/bull-silhouette.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.658903"
+        }
+      ],
+      "overall_sentiment_score": 0.216333,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CCI",
+          "relevance_score": "0.2872",
+          "ticker_sentiment_score": "0.132915",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MAA",
+          "relevance_score": "0.240965",
+          "ticker_sentiment_score": "0.246877",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.2872",
+          "ticker_sentiment_score": "0.179972",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "2 Dividend Stocks That Will Pay You for Life",
+      "url": "https://www.fool.com/investing/2023/12/26/2-dividend-stocks-that-will-pay-you-for-life/",
+      "time_published": "20231226T103800",
+      "authors": [
+        "Marc Rapport"
+      ],
+      "summary": "I SPY perpetual paybacks from this ETF. And O, that's one, too.",
+      "banner_image": "https://media.ycharts.com/charts/e35c6c00d361a0aa3837be5a7286d9b5.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999994"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.239687,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STT",
+          "relevance_score": "0.074001",
+          "ticker_sentiment_score": "0.088719",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.484408",
+          "ticker_sentiment_score": "0.248794",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Prediction: You Won't Regret Buying These 3 No-Brainer High-Yield Dividend Stocks",
+      "url": "https://www.fool.com/investing/2023/12/24/prediction-you-wont-regret-buying-these-3-no-brain/",
+      "time_published": "20231224T114500",
+      "authors": [
+        "and Jason Hall",
+        "Matthew DiLallo",
+        "Tyler Crowe"
+      ],
+      "summary": "These dividend stocks seem like sure things right now.",
+      "banner_image": "https://media.ycharts.com/charts/2214e4d921f84521c399b09d99a36b62.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "IPO",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.998356"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.297187,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MFCSF",
+          "relevance_score": "0.040969",
+          "ticker_sentiment_score": "0.080594",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LYB",
+          "relevance_score": "0.122477",
+          "ticker_sentiment_score": "0.068457",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.040969",
+          "ticker_sentiment_score": "0.053471",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.202705",
+          "ticker_sentiment_score": "0.195305",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Realty Income  ( NYSE:O )  Lowered to Sell at StockNews.com",
+      "url": "https://www.defenseworld.net/2023/12/22/realty-income-nyseo-lowered-to-sell-at-stocknews-com.html",
+      "time_published": "20231222T225203",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "StockNews.com lowered shares of Realty Income ( NYSE:O - Free Report ) from a hold rating to a sell rating in a research note published on Thursday morning. A number of other research firms have also commented on O.",
+      "banner_image": "https://www.marketbeat.com/scripts/RatingsAndPriceTargetChart.ashx?Prefix=NYSE&Symbol=O",
+      "source": "Stocknews.com",
+      "category_within_source": "n/a",
+      "source_domain": "www.defenseworld.net",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999999"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.938793"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.291022,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.049019",
+          "ticker_sentiment_score": "0.054482",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.049019",
+          "ticker_sentiment_score": "0.054482",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.781119",
+          "ticker_sentiment_score": "0.481953",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Key Reasons to Add Realty Income  ( O )  to Your Portfolio Now",
+      "url": "https://www.zacks.com/stock/news/2201544/key-reasons-to-add-realty-income-o-to-your-portfolio-now",
+      "time_published": "20231222T143800",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Realty Income's (O) focus on leasing to service, non-discretionary and low price-based retailers, accretive buyouts and balance sheet strength bode well. The steady rise in the monthly dividend is encouraging.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d8/50693.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.977154"
+        }
+      ],
+      "overall_sentiment_score": 0.364286,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "UE",
+          "relevance_score": "0.195025",
+          "ticker_sentiment_score": "0.100025",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SKT",
+          "relevance_score": "0.195025",
+          "ticker_sentiment_score": "0.100025",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SRC",
+          "relevance_score": "0.098255",
+          "ticker_sentiment_score": "0.262912",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.378572",
+          "ticker_sentiment_score": "0.408771",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Realty Income in 2024: What to Expect for This High-Yield Dividend Stock",
+      "url": "https://www.fool.com/investing/2023/12/22/realty-income-in-2024-what-to-expect-for-this-high/",
+      "time_published": "20231222T102300",
+      "authors": [
+        "Jason Hall"
+      ],
+      "summary": "The stock says 2023 was a bad year, but the business results tell a different story.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/759062/yield.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.041458,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "O",
+          "relevance_score": "0.558244",
+          "ticker_sentiment_score": "0.077131",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Board Member Of Realty Income Makes $199K Sale - Realty Income  ( NYSE:O ) ",
+      "url": "https://www.benzinga.com/news/23/12/36344909/board-member-of-realty-income-makes-199k-sale",
+      "time_published": "20231221T150206",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "Disclosed on December 21, Larry Chapman, Board Member at Realty Income O, executed a substantial insider sell as per the latest SEC filing. What Happened: Chapman's recent move involves selling 3,500 shares of Realty Income. This information is documented in a Form 4 filing with the U.S.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2023/insider_image_2.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.99737"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.989041"
+        }
+      ],
+      "overall_sentiment_score": 0.24179,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "O",
+          "relevance_score": "0.360752",
+          "ticker_sentiment_score": "0.434451",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "3 Stocks You'll Be Glad You Bought at These Prices",
+      "url": "https://www.fool.com/investing/2023/12/20/3-stocks-youll-be-glad-you-bought-at-these-prices/",
+      "time_published": "20231220T144500",
+      "authors": [
+        "CFA",
+        "Lawrence Rothman"
+      ],
+      "summary": "These three stocks have underperformed the market, but their long-term investing theses remain intact.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F758560%2Ftrader-investor-woman-stocks-markets-exchange-buy-sell-1193x800-d364447.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.995077"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.576289"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.247124,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGT",
+          "relevance_score": "0.16849",
+          "ticker_sentiment_score": "0.175478",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ETSY",
+          "relevance_score": "0.22335",
+          "ticker_sentiment_score": "0.283413",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SRC",
+          "relevance_score": "0.112797",
+          "ticker_sentiment_score": "0.131643",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.22335",
+          "ticker_sentiment_score": "0.283959",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Got $5,000? Here's How to Turn It Into Over $300 of Annual Passive Income in 2024",
+      "url": "https://www.fool.com/investing/2023/12/20/got-5000-heres-how-to-turn-it-into-over-300-of-ann/",
+      "time_published": "20231220T112400",
+      "authors": [
+        "Matthew DiLallo"
+      ],
+      "summary": "These high-yielding dividend stocks can generate plenty of reliable income.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/758785/cash-money-hundred-dollar-bills.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.962106"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.744043"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.377101,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CWEN",
+          "relevance_score": "0.085936",
+          "ticker_sentiment_score": "0.242713",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "VZ",
+          "relevance_score": "0.128592",
+          "ticker_sentiment_score": "0.218774",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BIPC",
+          "relevance_score": "0.085936",
+          "ticker_sentiment_score": "0.198704",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ET",
+          "relevance_score": "0.170878",
+          "ticker_sentiment_score": "0.235977",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.128592",
+          "ticker_sentiment_score": "0.211025",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Should You Retain Simon Property  ( SPG )  Stock Right Now?",
+      "url": "https://www.zacks.com/stock/news/2200024/should-you-retain-simon-property-spg-stock-right-now",
+      "time_published": "20231219T150000",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Simon Property (SPG) is poised to benefit from its portfolio of premium assets, a focus on omnichannel retailing and strategic buyouts, though higher e-commerce adoption and high rates are worrisome.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/bb/3235.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.378541,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DBGI",
+          "relevance_score": "0.04303",
+          "ticker_sentiment_score": "0.336714",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.04303",
+          "ticker_sentiment_score": "0.130508",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SPG",
+          "relevance_score": "0.410505",
+          "ticker_sentiment_score": "0.444673",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Got $1,000? Buy These 3 Magnificent Dividend Stocks to Boost Your Income in 2024.",
+      "url": "https://www.fool.com/investing/2023/12/19/got-1000-buy-these-3-magnificent-dividend-stocks-t/",
+      "time_published": "20231219T121600",
+      "authors": [
+        "Matthew DiLallo"
+      ],
+      "summary": "These companies pay high-yielding dividends that should continue rising in 2024.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/758662/a-person-holding-100-bills.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.980922"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.511255,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BEP",
+          "relevance_score": "0.1568",
+          "ticker_sentiment_score": "0.203711",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "VZ",
+          "relevance_score": "0.208017",
+          "ticker_sentiment_score": "0.41106",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BIPC",
+          "relevance_score": "0.05257",
+          "ticker_sentiment_score": "0.311889",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.208017",
+          "ticker_sentiment_score": "0.357945",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "3 Unstoppable Dividend-Growth Stocks You Can Buy Now and Hold Forever",
+      "url": "https://www.fool.com/investing/2023/12/19/3-unstoppable-dividend-growth-stocks-you-can-buy-n/",
+      "time_published": "20231219T103700",
+      "authors": [
+        "Cory Renauer"
+      ],
+      "summary": "These stocks have raised their payouts every year for decades and could keep doing so for the rest of your days.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F758557%2Finvestor-checking-stocks-getty.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.818451"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.182085,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCO",
+          "relevance_score": "0.053749",
+          "ticker_sentiment_score": "0.048019",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MO",
+          "relevance_score": "0.263942",
+          "ticker_sentiment_score": "0.122807",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.21258",
+          "ticker_sentiment_score": "0.172028",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.160277",
+          "ticker_sentiment_score": "0.106361",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "5 of the Safest High-Yield Dividend Stocks to Buy for 2024",
+      "url": "https://www.fool.com/investing/2023/12/19/5-safest-high-yield-dividend-stocks-to-buy-in-2024/",
+      "time_published": "20231219T100600",
+      "authors": [
+        "Sean Williams"
+      ],
+      "summary": "These supercharged dividend stocks, with yields ranging from 5.4% to 10.5%, offer highly favorable risk-versus-reward profiles for income seekers in the new year.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F758592%2Fcounting-cash-in-hands-money-bills-dividend-invest-getty.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.818451"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.205083,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MO",
+          "relevance_score": "0.243701",
+          "ticker_sentiment_score": "0.1351",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "VZ",
+          "relevance_score": "0.190739",
+          "ticker_sentiment_score": "0.200335",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SRC",
+          "relevance_score": "0.027508",
+          "ticker_sentiment_score": "0.109879",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PFLT",
+          "relevance_score": "0.054983",
+          "ticker_sentiment_score": "0.135844",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SGEN",
+          "relevance_score": "0.027508",
+          "ticker_sentiment_score": "0.045323",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PFE",
+          "relevance_score": "0.163909",
+          "ticker_sentiment_score": "0.083738",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.136888",
+          "ticker_sentiment_score": "0.20017",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Regency Centers  ( REG )  Boosts Portfolio With Property Buyout",
+      "url": "https://www.zacks.com/stock/news/2199438/regency-centers-reg-boosts-portfolio-with-property-buyout",
+      "time_published": "20231218T145100",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Regency's (REG) latest acquisition of a neighborhood center, The Longmeadow Shops, in Longmeadow, MA, boosts its portfolio with high-quality shopping centers in key suburban trade areas.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/88/400.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.87644"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.292535,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CVS",
+          "relevance_score": "0.068698",
+          "ticker_sentiment_score": "0.128491",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.068698",
+          "ticker_sentiment_score": "0.128491",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SBUX",
+          "relevance_score": "0.068698",
+          "ticker_sentiment_score": "0.128491",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "REG",
+          "relevance_score": "0.136888",
+          "ticker_sentiment_score": "0.109125",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.068698",
+          "ticker_sentiment_score": "0.124467",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Fed to Start Cutting Rates Midyear 2024: 4 Stocks to Benefit",
+      "url": "https://www.zacks.com/stock/news/2199264/fed-to-start-cutting-rates-midyear-2024-4-stocks-to-benefit",
+      "time_published": "20231218T131500",
+      "authors": [
+        "Anirudha Bhagat"
+      ],
+      "summary": "With the Fed hinting at potential rate cuts later in 2024, investors should eye industries that have historically favored during such shifts. Explore O, HNST, NVDA and MBLY stocks that are likely to thrive on the Fed's easing monetary policy.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/bd/8226.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.838487"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999987"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.576289"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.275466,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.200134",
+          "ticker_sentiment_score": "0.248833",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "HNST",
+          "relevance_score": "0.134214",
+          "ticker_sentiment_score": "0.131658",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MBLY",
+          "relevance_score": "0.134214",
+          "ticker_sentiment_score": "0.031066",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.167322",
+          "ticker_sentiment_score": "0.285308",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Realty Income Stock: Buy, Sell, or Hold?",
+      "url": "https://www.fool.com/investing/2023/12/15/realty-income-stock-buy-sell-or-hold/",
+      "time_published": "20231215T224600",
+      "authors": [
+        "CFA",
+        "Lawrence Rothman"
+      ],
+      "summary": "Realty Income had a nearly 6% dividend yield.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F757684%2Fa-notebook-calculator-and-the-word-reit-1200x800-5b2df79.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.459462"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.239118,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DG",
+          "relevance_score": "0.081001",
+          "ticker_sentiment_score": "-0.020688",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FDX",
+          "relevance_score": "0.081001",
+          "ticker_sentiment_score": "-0.020688",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SRC",
+          "relevance_score": "0.081001",
+          "ticker_sentiment_score": "0.122302",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.31583",
+          "ticker_sentiment_score": "-0.027975",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WBA",
+          "relevance_score": "0.081001",
+          "ticker_sentiment_score": "-0.020688",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.081001",
+          "ticker_sentiment_score": "-0.020688",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "This Monthly Dividend Stock Fell 15% in 2023. Here's Why 2024 Could Be Much Better.",
+      "url": "https://www.fool.com/investing/2023/12/15/this-monthly-dividend-stock-fell-15-why-2024-could/",
+      "time_published": "20231215T150000",
+      "authors": [
+        "Justin Pope"
+      ],
+      "summary": "The stock has averaged 13.4% annual returns since its initial public offering in the 1990s.",
+      "banner_image": "https://media.ycharts.com/charts/67db800fcfd4d926410eabab8b19dedc.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.82617"
+        }
+      ],
+      "overall_sentiment_score": 0.22953,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "O",
+          "relevance_score": "0.469099",
+          "ticker_sentiment_score": "0.321559",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Realty Income Corp.  ( O )  Crossed Above the 200-Day Moving Average: What That Means for Investors",
+      "url": "https://www.zacks.com/stock/news/2198637/realty-income-corp-o-crossed-above-the-200-day-moving-average-what-that-means-for-investors",
+      "time_published": "20231215T143004",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Should investors be excited or worried when a stock crosses above the 200-day simple moving average?",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default67.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.258098,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "O",
+          "relevance_score": "0.204072",
+          "ticker_sentiment_score": "0.402319",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "This 5.6%-Yielding Dividend Stock Continues to Do an Incredible Job of Supplying Its Investors With More Income",
+      "url": "https://www.fool.com/investing/2023/12/15/this-56-yielding-dividend-stock-continues-to-do-an/",
+      "time_published": "20231215T103500",
+      "authors": [
+        "Matthew DiLallo"
+      ],
+      "summary": "Realty Income's high-yielding dividend should continue heading higher.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F758167%2Frealty_income_dividend.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.413559"
+        }
+      ],
+      "overall_sentiment_score": 0.325658,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "O",
+          "relevance_score": "0.499254",
+          "ticker_sentiment_score": "0.468708",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Want Decades of Passive Income? 3 Stocks to Buy Now",
+      "url": "https://www.fool.com/investing/2023/12/15/want-decades-of-passive-income-3-stocks-to-buy-now/",
+      "time_published": "20231215T101500",
+      "authors": [
+        "Reuben Gregg Brewer"
+      ],
+      "summary": "The REIT sector is out of favor, but the best names are already starting to recover. That means the time to act is now.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/758075/22_04_25-a-hand-drawing-puzzle-pieces-with-the-words-price-and-value-on-them-_gettyimages-477457721.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999922"
+        }
+      ],
+      "overall_sentiment_score": 0.225858,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVB",
+          "relevance_score": "0.105141",
+          "ticker_sentiment_score": "-0.035544",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLD",
+          "relevance_score": "0.402941",
+          "ticker_sentiment_score": "0.150297",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.402941",
+          "ticker_sentiment_score": "0.204017",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is It Worth Investing in Realty Income Corp.  ( O )  Based on Wall Street's Bullish Views?",
+      "url": "https://www.zacks.com/stock/news/2197961/is-it-worth-investing-in-realty-income-corp-o-based-on-wall-streets-bullish-views",
+      "time_published": "20231214T143006",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "The average brokerage recommendation (ABR) for Realty Income Corp. (O) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?",
+      "banner_image": "https://staticx-tuner.zacks.com/images/yesopchart/brokerage_bar/O_12142023.png",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.938238"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.459462"
+        }
+      ],
+      "overall_sentiment_score": 0.321136,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "O",
+          "relevance_score": "0.354138",
+          "ticker_sentiment_score": "0.169228",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Realty Income Corporation  ( O )  is Attracting Investor Attention: Here is What You Should Know",
+      "url": "https://www.zacks.com/stock/news/2197907/realty-income-corporation-o-is-attracting-investor-attention-here-is-what-you-should-know",
+      "time_published": "20231214T140012",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Realty Income Corp. (O) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default78.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.658903"
+        }
+      ],
+      "overall_sentiment_score": 0.244003,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "O",
+          "relevance_score": "0.468885",
+          "ticker_sentiment_score": "0.224347",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Here's 1 Fantastic Dividend Stock to Buy in December",
+      "url": "https://www.fool.com/investing/2023/12/14/1-fantastic-dividend-stock-to-buy-in-december/",
+      "time_published": "20231214T124500",
+      "authors": [
+        "Adam Spatacco"
+      ],
+      "summary": "Realty Income stock is trading near three-year lows.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F757513%2Fstore-aisle-5-below-dollar-general-dollar-tree.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.503496"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.203257,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DG",
+          "relevance_score": "0.065685",
+          "ticker_sentiment_score": "0.016145",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DLTR",
+          "relevance_score": "0.065685",
+          "ticker_sentiment_score": "0.016145",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.490323",
+          "ticker_sentiment_score": "0.30815",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.065685",
+          "ticker_sentiment_score": "0.016145",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Want $200 in Monthly Dividend Income in 2024? Invest $27,000 in This Ultra-High-Yield Trio",
+      "url": "https://www.fool.com/investing/2023/12/14/want-200-monthly-dividend-income-2024-invest-27000/",
+      "time_published": "20231214T100600",
+      "authors": [
+        "Sean Williams"
+      ],
+      "summary": "These supercharged income stocks, which sport an average yield of 8.9%, can fatten your pocketbook every month in the new year.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F757786%2Ftwo-hundred-dollars-cash-money-invest-retire-stocks-getty.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.149252,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFLT",
+          "relevance_score": "0.061394",
+          "ticker_sentiment_score": "0.185094",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SRC",
+          "relevance_score": "0.03072",
+          "ticker_sentiment_score": "0.144557",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.03072",
+          "ticker_sentiment_score": "0.138736",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HRZN",
+          "relevance_score": "0.122425",
+          "ticker_sentiment_score": "0.080239",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.152692",
+          "ticker_sentiment_score": "0.212186",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SHAREHOLDER ALERT: The M&A Class Action Firm Continues Investigating the Merger - NWLI, CSTR, ROVR, SRC",
+      "url": "https://www.benzinga.com/pressreleases/23/12/g36228859/shareholder-alert-the-m-a-class-action-firm-continues-investigating-the-merger-nwli-cstr-rovr-src",
+      "time_published": "20231214T010000",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "NEW YORK, Dec. 13, 2023 ( GLOBE NEWSWIRE ) -- Juan Monteverde, founder and managing partner of the class action firm Monteverde & Associates PC ( the \"M&A Class Action Firm\" ) , a national securities firm rated Top 50 in the 2018-2022 ISS Securities Class Action Services Report and ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.928769"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.361645,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CSTR",
+          "relevance_score": "0.270523",
+          "ticker_sentiment_score": "0.313544",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NWLI",
+          "relevance_score": "0.270523",
+          "ticker_sentiment_score": "0.324491",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ONB",
+          "relevance_score": "0.068896",
+          "ticker_sentiment_score": "0.15962",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SRC",
+          "relevance_score": "0.270523",
+          "ticker_sentiment_score": "0.317482",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BX",
+          "relevance_score": "0.068896",
+          "ticker_sentiment_score": "0.123175",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.068896",
+          "ticker_sentiment_score": "0.161671",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ROVR",
+          "relevance_score": "0.270523",
+          "ticker_sentiment_score": "0.244531",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "This Hot REIT Stock Still Has 20% Upside, According to 1 Wall Street Analyst",
+      "url": "https://www.fool.com/investing/2023/12/13/this-hot-reit-stock-still-has-20-upside/",
+      "time_published": "20231213T171627",
+      "authors": [
+        "Howard Smith"
+      ],
+      "summary": "Wall Street thinks you should own Realty Income for more than just dividend income.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/758172/dividends-blackboard-sketch-doodle.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.503496"
+        }
+      ],
+      "overall_sentiment_score": 0.366792,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SRC",
+          "relevance_score": "0.112008",
+          "ticker_sentiment_score": "0.141865",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.426824",
+          "ticker_sentiment_score": "0.419775",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Realty Income Corp.  ( O )  Upgraded to Buy: Here's What You Should Know",
+      "url": "https://www.zacks.com/stock/news/2197526/realty-income-corp-o-upgraded-to-buy-heres-what-you-should-know",
+      "time_published": "20231213T170005",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Realty Income Corp. (O) has been upgraded to a Zacks Rank #2 (Buy), reflecting growing optimism about the company's earnings prospects. This might drive the stock higher in the near term.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default123.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.997845"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.723405"
+        }
+      ],
+      "overall_sentiment_score": 0.305006,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "O",
+          "relevance_score": "0.300946",
+          "ticker_sentiment_score": "0.281269",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Realty Income  ( O )  Rewards Investors With 123rd Dividend Hike",
+      "url": "https://www.zacks.com/stock/news/2197440/realty-income-o-rewards-investors-with-123rd-dividend-hike",
+      "time_published": "20231213T160300",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Realty Income (O) announces its 123rd dividend hike, boosting shareholders' wealth. Its ability to generate decent cash flows and solid balance sheet strength is expected to support the latest hike.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/25/33358.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.972756"
+        }
+      ],
+      "overall_sentiment_score": 0.354873,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCO",
+          "relevance_score": "0.059194",
+          "ticker_sentiment_score": "0.206586",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "EQIX",
+          "relevance_score": "0.176287",
+          "ticker_sentiment_score": "0.057617",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.233556",
+          "ticker_sentiment_score": "0.324327",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "123rd Common Stock Monthly Dividend Increase Declared by Realty Income - PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/123rd-common-stock-monthly-dividend-increase-declared-by-realty-income-302013186.html",
+      "time_published": "20231212T210500",
+      "authors": [],
+      "summary": "123rd Common Stock Monthly Dividend Increase Declared by Realty Income PR ...",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.prnewswire.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.650727"
+        }
+      ],
+      "overall_sentiment_score": 0.212783,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "O",
+          "relevance_score": "0.740156",
+          "ticker_sentiment_score": "0.329305",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "10 of the Best REITs for 2024",
+      "url": "https://www.fool.com/investing/2023/12/12/10-of-the-best-reits-for-2024/",
+      "time_published": "20231212T144200",
+      "authors": [
+        "CPA",
+        "Mark Roussin"
+      ],
+      "summary": "REITs are expected to rebound in 2024.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/757968/a-hand-pointing-at-a-digital-board-that-says-reit.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.282053,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "O",
+          "relevance_score": "0.407844",
+          "ticker_sentiment_score": "0.460613",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Here Are My 5 Largest Stock Positions Heading Into 2024",
+      "url": "https://www.fool.com/investing/2023/12/12/here-are-my-5-largest-stock-positions-heading-into/",
+      "time_published": "20231212T110300",
+      "authors": [
+        "Matthew Frankel",
+        "CFP\u00ae"
+      ],
+      "summary": "These five stocks make up about 25% of my portfolio and are high-conviction investments.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/757914/stock-trader-2022-a.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.980922"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.316321,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.06179",
+          "ticker_sentiment_score": "0.147575",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MELI",
+          "relevance_score": "0.123209",
+          "ticker_sentiment_score": "0.152181",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.06179",
+          "ticker_sentiment_score": "0.160075",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DFH",
+          "relevance_score": "0.123209",
+          "ticker_sentiment_score": "0.197191",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.06179",
+          "ticker_sentiment_score": "0.086396",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "4 Top Dividend Stocks Yielding More Than 4% to Buy Hand-Over-Fist This December",
+      "url": "https://www.fool.com/investing/2023/12/10/4-top-dividend-stocks-yielding-more-than-4-to-buy/",
+      "time_published": "20231210T124500",
+      "authors": [
+        "Matthew DiLallo"
+      ],
+      "summary": "These companies offer above-average income streams that should continue rising.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/757668/a-person-measuring-a-yield-sign.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.996023"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.538269"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.47718,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CERE",
+          "relevance_score": "0.046184",
+          "ticker_sentiment_score": "0.196302",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ABBV",
+          "relevance_score": "0.227859",
+          "ticker_sentiment_score": "0.426675",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BEP",
+          "relevance_score": "0.227859",
+          "ticker_sentiment_score": "0.492098",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "VZ",
+          "relevance_score": "0.271777",
+          "ticker_sentiment_score": "0.35293",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.183198",
+          "ticker_sentiment_score": "0.344501",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SHAREHOLDER INVESTIGATION: Halper Sadeh LLC Investigates CSTR, SRC, PATI, GRPH - CapStar Finl Hldgs  ( NASDAQ:CSTR ) , Graphite Bio  ( NASDAQ:GRPH ) ",
+      "url": "https://www.benzinga.com/pressreleases/23/12/g36166328/shareholder-investigation-halper-sadeh-llc-investigates-cstr-src-pati-grph",
+      "time_published": "20231209T134955",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "NEW YORK, Dec. 09, 2023 ( GLOBE NEWSWIRE ) -- Halper Sadeh LLC, an investor rights law firm, is investigating the following companies for potential violations of the federal securities laws and/or breaches of fiduciary duties to shareholders relating to: CapStar Financial Holdings, Inc.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.158488,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CSTR",
+          "relevance_score": "0.120431",
+          "ticker_sentiment_score": "0.130544",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GRPH",
+          "relevance_score": "0.120431",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ONB",
+          "relevance_score": "0.120431",
+          "ticker_sentiment_score": "0.130544",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PATI",
+          "relevance_score": "0.120431",
+          "ticker_sentiment_score": "0.234731",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SRC",
+          "relevance_score": "0.120431",
+          "ticker_sentiment_score": "0.202651",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.238133",
+          "ticker_sentiment_score": "0.311637",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Realty Income  ( NYSE:O )  Upgraded to Hold at StockNews.com",
+      "url": "https://www.defenseworld.net/2023/12/08/realty-income-nyseo-upgraded-to-hold-at-stocknews-com.html",
+      "time_published": "20231209T052857",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "StockNews.com upgraded shares of Realty Income ( NYSE:O - Free Report ) from a sell rating to a hold rating in a report released on Thursday morning. Several other analysts have also recently weighed in on O.",
+      "banner_image": "https://www.marketbeat.com/scripts/RatingsAndPriceTargetChart.ashx?Prefix=NYSE&Symbol=O",
+      "source": "Stocknews.com",
+      "category_within_source": "n/a",
+      "source_domain": "www.defenseworld.net",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.846708"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.967645"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.274822,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.05234",
+          "ticker_sentiment_score": "-0.008983",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FTS",
+          "relevance_score": "0.05234",
+          "ticker_sentiment_score": "0.227697",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BNS",
+          "relevance_score": "0.05234",
+          "ticker_sentiment_score": "-0.008983",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.7877",
+          "ticker_sentiment_score": "0.456505",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ALERT: The M&A Class Action Firm Continues Investigating the Merger - PATI, ROVR, SRC, IMGN",
+      "url": "https://www.prnewswire.com/news-releases/alert-the-ma-class-action-firm-continues-investigating-the-merger--pati-rovr-src-imgn-302010546.html",
+      "time_published": "20231209T010000",
+      "authors": [
+        "Monteverde & Associates PC"
+      ],
+      "summary": "NEW YORK, Dec. 8, 2023 /PRNewswire/ -- , founder and managing partner of the class action firm ( the \"M&A Class Action Firm\" ) , a national securities firm rated Top 50 in the 2018-2022 ISS Securities Class Action Services Report and headquartered at the Empire State Building in New York City, ...",
+      "banner_image": "https://mma.prnewswire.com/media/2296860/Monteverde_Associates_PC_Logo.jpg?p=facebook",
+      "source": "PR Newswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.prnewswire.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.875462"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.391619,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PATI",
+          "relevance_score": "0.154951",
+          "ticker_sentiment_score": "0.188136",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SRC",
+          "relevance_score": "0.154951",
+          "ticker_sentiment_score": "0.188136",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BX",
+          "relevance_score": "0.077845",
+          "ticker_sentiment_score": "0.145201",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IMGN",
+          "relevance_score": "0.2306",
+          "ticker_sentiment_score": "0.249544",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ABBV",
+          "relevance_score": "0.077845",
+          "ticker_sentiment_score": "0.145201",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.077845",
+          "ticker_sentiment_score": "0.145201",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ROVR",
+          "relevance_score": "0.154951",
+          "ticker_sentiment_score": "0.188136",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "2 Top Growth Stocks That Are Screaming Buys in December",
+      "url": "https://www.fool.com/investing/2023/12/07/2-top-growth-stocks-are-screaming-buys-in-december/",
+      "time_published": "20231207T191300",
+      "authors": [
+        "Anders Bylund"
+      ],
+      "summary": "These undervalued high-growth gems should be at the top of your list of great investing ideas right now.",
+      "banner_image": "https://media.ycharts.com/charts/64c0df4700e993a25f5538b05c9e30ab.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.838487"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.459462"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.928769"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.227054,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ROKU",
+          "relevance_score": "0.367412",
+          "ticker_sentiment_score": "0.141476",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ONL",
+          "relevance_score": "0.047654",
+          "ticker_sentiment_score": "0.095873",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GBHL",
+          "relevance_score": "0.047654",
+          "ticker_sentiment_score": "0.04928",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.234911",
+          "ticker_sentiment_score": "0.210041",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Best Stock to Buy: Altria vs. Realty Income",
+      "url": "https://www.fool.com/investing/2023/12/07/best-stock-to-buy-altria-vs-realty-income/",
+      "time_published": "20231207T141353",
+      "authors": [
+        "Reuben Gregg Brewer"
+      ],
+      "summary": "These high-yield stocks are backed by companies with stark differences in their long-term outlooks.",
+      "banner_image": "https://media.ycharts.com/charts/ba624ef88d9313ec15c4fe8bea2eaf5c.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.459462"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.101549,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MO",
+          "relevance_score": "0.338582",
+          "ticker_sentiment_score": "-0.022466",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.257442",
+          "ticker_sentiment_score": "0.247447",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AT&T or Verizon for High Yields? 2 Better Stocks for Yield and Income",
+      "url": "https://www.fool.com/investing/2023/12/07/att-or-verizon-for-high-yields-2-better-stocks-for/",
+      "time_published": "20231207T104500",
+      "authors": [
+        "Jason Hall and Tyler Crowe"
+      ],
+      "summary": "After years of poor returns, investors should move on from these two telecom giants. Here are two alternatives for yield.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/757087/risk-low-high.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.13146,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OLP",
+          "relevance_score": "0.724687",
+          "ticker_sentiment_score": "0.26809",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "T",
+          "relevance_score": "0.414559",
+          "ticker_sentiment_score": "0.198398",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "VZ",
+          "relevance_score": "0.724687",
+          "ticker_sentiment_score": "0.26809",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.414559",
+          "ticker_sentiment_score": "0.198398",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is 8.8% Yielding Redwood Trust a No-Brainer Buy or a Stock to Avoid?",
+      "url": "https://www.fool.com/investing/2023/12/07/dividend-yield-redwood-trust-no-brainer-buy-stock/",
+      "time_published": "20231207T104100",
+      "authors": [
+        "Reuben Gregg Brewer"
+      ],
+      "summary": "REIT Redwood Trust has a huge yield, but income investors need to look at its dividend history before jumping aboard.",
+      "banner_image": "https://media.ycharts.com/charts/f7b75fd8415370da390e2d208dc21790.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.076503,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RWT",
+          "relevance_score": "0.47452",
+          "ticker_sentiment_score": "0.102297",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "O",
+          "relevance_score": "0.249106",
+          "ticker_sentiment_score": "0.112084",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}
