@@ -24,3 +24,8 @@ if __name__ == "__main__":
     else:
         print(f"\nNews Sentiment for {ticker_symbol}:")
     print(beautify_json(news_sentiment))
+
+    # Example: Get advanced analytics for a dynamically entered ticker symbol
+    ticker_symbol = input("Enter the desired ticker symbol (e.g., IBM): ")
+    advanced_analytics_data = api_handler.get_advanced_analytics(ticker_symbol)
+    print(f"\nAdvanced Analytics Data for {ticker_symbol}:")

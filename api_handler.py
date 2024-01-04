@@ -44,3 +44,35 @@ class ApiHandler:
         data = response.json()
         self._save_to_file(data, f'./data/{tickers}_news_sentiment.json')
         return data
+    def __init__(self, api_key):
+        self.api_key = api_key
+        self.base_url = 'https://alphavantageapi.co/timeseries/analytics'
+
+    def get_advanced_analytics(self, symbol, date_range='full', ohlc='close', interval='DAILY',
+                                calculations='MIN,MAX,MEAN,MEDIAN,CUMULATIVE_RETURN,VARIANCE,STDDEV,HISTOGRAM,AUTOCORRELATION,COVARIANCE,CORRELATION'):
+        # Define parameters
+        params = {
+            'SYMBOLS': symbol,
+            'RANGE': date_range,
+            'OHLC': ohlc,
+            'INTERVAL': interval,
+            'CALCULATIONS': calculations,
+            'apikey': self.api_key
+        }
+
+        # Make the API request
+        response = requests.get(self.base_url, params=params)
+        data = response.json()
+
+        # Define the file path
+        file_path = os.path.join('Data', f'{symbol}_advanced_analytics.json')
+
+        # Save the data to the specified file
+        with open(file_path, 'w') as file:
+            json.dump(data, file)
+
+        print(f"Advanced analytics data for {symbol} saved to {file_path}")
+
+        return data
+
+    
