@@ -1,29 +1,34 @@
 import requests
 from dotenv import load_dotenv
+from urllib.parse import urlencode
 import os
 import json
 
 class ApiHandler:
-    def __init__(self):
-        load_dotenv()
-        self.api_key = os.environ.get('ALPHA_VANTAGE_API_KEY')
-        self.base_url = 'https://www.alphavantage.co/query?'
+    def __init__(self, api_key=None):
+        if api_key is None:
+            load_dotenv()
+            api_key = os.environ.get('ALPHA_VANTAGE_API_KEY2')
+
+        self.api_key = api_key
+        self.base_url = 'https://alphavantageapi.co/'
 
     def _make_request(self, function, params):
         params['apikey'] = self.api_key
-        url = f"{self.base_url}function={function}&{self._encode_params(params)}"
+        url = f"{self.base_url}query{function}&{self._encode_params(params)}"
+        print(url)
         response = requests.get(url)
         return response
 
     def _encode_params(self, params):
-        return '&'.join([f"{key}={value}" for key, value in params.items()])
+        return urlencode(params)
 
     def _save_to_file(self, data, filename):
         with open(filename, 'w') as file:
             json.dump(data, file, indent=2)
 
     def get_daily_stock_data(self, symbol):
-        function = 'TIME_SERIES_DAILY'
+        function = '?function=TIME_SERIES_DAILY'
         params = {'symbol': symbol}
         response = self._make_request(function, params)
         data = response.json()
@@ -31,7 +36,7 @@ class ApiHandler:
         return data
 
     def get_news_sentiment(self, tickers, time_from=None, time_to=None, limit=None):
-        function = 'NEWS_SENTIMENT'
+        function = '?function=NEWS_SENTIMENT'
         params = {'tickers': tickers, 'limit': limit}
 
         # Include time_from and time_to only if provided
@@ -44,12 +49,10 @@ class ApiHandler:
         data = response.json()
         self._save_to_file(data, f'./data/{tickers}_news_sentiment.json')
         return data
-    def __init__(self, api_key):
-        self.api_key = api_key
-        self.base_url = 'https://alphavantageapi.co/timeseries/analytics'
 
     def get_advanced_analytics(self, symbol, date_range='full', ohlc='close', interval='DAILY',
-                                calculations='MIN,MAX,MEAN,MEDIAN,CUMULATIVE_RETURN,VARIANCE,STDDEV,HISTOGRAM,AUTOCORRELATION,COVARIANCE,CORRELATION'):
+                               calculations='MIN,MAX,MEAN,MEDIAN,CUMULATIVE_RETURN,VARIANCE,STDDEV,HISTOGRAM,AUTOCORRELATION,COVARIANCE,CORRELATION'):
+        function = 'timeseries/analytics'
         # Define parameters
         params = {
             'SYMBOLS': symbol,
@@ -61,7 +64,7 @@ class ApiHandler:
         }
 
         # Make the API request
-        response = requests.get(self.base_url, params=params)
+        response = self._make_request(function, params)
         data = response.json()
 
         # Define the file path
@@ -74,5 +77,3 @@ class ApiHandler:
         print(f"Advanced analytics data for {symbol} saved to {file_path}")
 
         return data
-
-    
