@@ -10,11 +10,22 @@ tickers = ["TSLA"]
 tickers = ','.join(tickers)
 
 # Parameters for core historical equity prices
-params = {'token': api_key,
-          'range': "5y",
-          'sort': "DESC"
-         }
-params = iex._encode_params(params)
+params_prices = {
+    'token': api_key,
+    'range': "5y",
+    'sort': "DESC",
+    'format': 'csv'
+    }
 
-# Get core historical equity prices
-iex.get_data(workspace="core", dataset_id="historical_prices", symbol= tickers, params=params)
+## Get core historical equity prices ##
+iex.get_data(workspace="core", dataset_id="historical_prices", symbol= tickers, params=params_prices)
+
+## Get SEC filings ##
+params_sec = { 
+    'token': api_key,
+    'format': 'csv'
+
+    }
+
+iex.get_data(workspace="core", dataset_id="reported_financials", symbol= tickers, params=params_sec, sec_filing_type="10-Q")
+
