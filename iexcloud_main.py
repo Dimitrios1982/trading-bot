@@ -5,6 +5,9 @@ import os
 load_dotenv()
 api_key = os.environ.get('IEXCLOUD_API_KEY')
 
+tickers = ["TSLA", "IBM"]
+tickers = ','.join(tickers)
+
 params = {'token': api_key,
           'range': "5y",
           'sort': "DESC"
@@ -12,4 +15,4 @@ params = {'token': api_key,
 params = iex._encode_params(params)
 
 # Get core historical equity prices
-iex.get_data(workspace="core", dataset_id="historical_prices", symbol="TSLA", params=params)
+iex.get_data(workspace="core", dataset_id="historical_prices", symbol= tickers, params=params)
