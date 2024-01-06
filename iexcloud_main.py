@@ -5,9 +5,11 @@ import os
 load_dotenv()
 api_key = os.environ.get('IEXCLOUD_API_KEY')
 
-tickers = ["TSLA", "IBM"]
+# Example for multiple tickers ["TSLA", "IBM", "AAPL"]
+tickers = ["TSLA"] 
 tickers = ','.join(tickers)
 
+# Parameters for core historical equity prices
 params = {'token': api_key,
           'range': "5y",
           'sort': "DESC"
