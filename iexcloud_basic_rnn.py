@@ -30,9 +30,12 @@ print("columns: ", features.columns)
 # Standardize features
 scaler = StandardScaler()
 features_scaled = scaler.fit_transform(features)
+target_scaled = scaler.fit_transform(target.values.reshape(-1, 1))
+
 
 # Split the data into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(features_scaled, target, test_size=0.2, random_state=42)
+#X_train, X_test, y_train, y_test = train_test_split(features_scaled, target_scaled, test_size=0.2, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(features, target, test_size=0.2, random_state=42)
 
 # Reshape features for RNN input (samples, time steps, features)
 X_train_reshaped = X_train.reshape((X_train.shape[0], 1, X_train.shape[1]))
@@ -49,7 +52,7 @@ model.add(Dense(units=1, activation='linear'))  # Output layer with linear activ
 model.compile(optimizer='adam', loss='mean_squared_error')
 
 # Train the model
-model.fit(X_train_reshaped, y_train, epochs=1000, batch_size=32, validation_split=0.1, verbose=1)
+model.fit(X_train_reshaped, y_train, epochs=1000, batch_size=32, validation_split=0.15, verbose=1)
 
 # Evaluate the model on the test set
 loss = model.evaluate(X_test_reshaped, y_test)

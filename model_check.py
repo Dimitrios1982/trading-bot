@@ -1,5 +1,6 @@
 import pandas as pd
 import joblib
+from iexcloud_basic_rnn import scaler
 
 # Input data for prediction
 input_data = {
@@ -36,6 +37,8 @@ model = joblib.load(model_filename)
 
 # Make predictions for the input data
 predicted_close_price = model.predict(input_array)
+#predicted_close_price_original_scale = scaler.inverse_transform(predicted_close_price)
+
 
 # Display the predicted close price
 print(f'Predicted Close Price: ${predicted_close_price[0][0]:.2f}')
