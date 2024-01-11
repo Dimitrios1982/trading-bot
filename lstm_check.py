@@ -36,9 +36,10 @@ input_tensor = input_tensor.reshape((input_tensor.shape[0], 1, input_tensor.shap
 
 # Initialize the model
 input_size = input_tensor.shape[2]  # Assuming input_size is the number of features
-hidden_size = 50
+hidden_size = 100  # Increased hidden size
 output_size = 1
-model = LSTMModel(input_size, hidden_size, output_size)
+num_layers = 2  # Added more layers
+model = LSTMModel(input_size, hidden_size, output_size, num_layers, dropout=0.01)
 
 # Load the trained model weights
 model_filename = './models/TSLA_combined_data_pytorch.pth'
