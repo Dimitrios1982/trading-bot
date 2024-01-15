@@ -1,6 +1,20 @@
 import pandas as pd
 import torch
-from iexcloud_lstm import LSTMModel  # Assuming this is the file where your LSTMModel is defined
+import torch.nn as nn
+
+# Define the LSTM model architecture
+class LSTMModel(nn.Module):
+    def __init__(self, input_size, hidden_size, output_size, num_layers, dropout):
+        super(LSTMModel, self).__init__()
+        self.lstm = nn.LSTM(input_size, hidden_size, num_layers=num_layers, dropout=dropout, batch_first=True)
+        self.fc1 = nn.Linear(hidden_size, 10)
+        self.fc2 = nn.Linear(10, output_size)
+
+    def forward(self, x):
+        _, (out, _) = self.lstm(x)
+        out = self.fc1(out.squeeze(0))  # Squeeze the batch dimension
+        out = self.fc2(out)
+        return out
 
 # Input data for prediction
 input_data = {
@@ -36,10 +50,11 @@ input_tensor = input_tensor.reshape((input_tensor.shape[0], 1, input_tensor.shap
 
 # Initialize the model
 input_size = input_tensor.shape[2]  # Assuming input_size is the number of features
-hidden_size = 100  # Increased hidden size
+hidden_size = 100  # Adjusted hidden size
 output_size = 1
-num_layers = 2  # Added more layers
-model = LSTMModel(input_size, hidden_size, output_size, num_layers, dropout=0.01)
+num_layers = 2  # Adjusted number of layers
+dropout = 0.01
+model = LSTMModel(input_size, hidden_size, output_size, num_layers, dropout)
 
 # Load the trained model weights
 model_filename = './models/TSLA_combined_data_pytorch.pth'
@@ -51,4 +66,4 @@ with torch.no_grad():
     predicted_close_price = model(input_tensor)
 
 # Display the predicted close price
-print(f'Predicted Close Price: ${predicted_close_price[0][0]:.2f}')
+print(f'Predicted Close Price: ${predicted_close_price[0, 0].item():.2f}')
