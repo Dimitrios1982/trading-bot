@@ -1,0 +1,12 @@
+type,name,symbol,performance,lastUpdated
+sector,Energy,XLE,0.01125,1705093200005
+sector,Real Estate,XLRE,0.00765,1705093200066
+sector,Utilities,XLU,0.00572,1705093200003
+sector,Communication Services,XLC,0.0049,1705093200059
+sector,Technology,XLK,0.00324,1705093200009
+sector,Consumer Staples,XLP,0.00317,1705093200010
+sector,Materials,XLB,0.00096,1705093200004
+sector,Industrials,XLI,-0.00009,1705093200004
+sector,Financials,XLF,-0.00186,1705093200008
+sector,Health Care,XLV,-0.00248,1705093200007
+sector,Consumer Discretionary,XLY,-0.01204,1705093200004

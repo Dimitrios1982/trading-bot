@@ -32,7 +32,7 @@ print(sec_filings_df)
 # Repeat the first row of sec_filings_df to fill missing entries
 sec_filings_repeated = pd.concat([sec_filings_df] * len(prices_df), ignore_index=True)
 
-# Merge the two DataFrames
+# Merge the DataFrames
 merged_df = pd.concat([prices_df, sec_filings_repeated], axis=1)
 merged_df.to_csv(f'{file_path}combined_data.csv', index=False)
 print(merged_df.head(5))
