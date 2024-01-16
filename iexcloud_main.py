@@ -44,6 +44,9 @@ iex.get_data(workspace="core", dataset_id="sector_performance", symbol='market',
 params_indicators = {
     'token': api_key,
     'range': "5y",
-    'sort': "DESC"
+    'sort': "desc",
+    'format': 'csv',
+    'indicatorOnly': True,
+    'period': 26
 }
-iex.get_data(workspace="stock", dataset_id='indicator', symbol= tickers, params=params_indicators, indicator='stochrsi')
+iex.get_data(workspace="stock", dataset_id='indicator', symbol= tickers, params=params_indicators, indicator='ema')
