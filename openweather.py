@@ -17,7 +17,7 @@ params = {
 	"longitude": -73.9352,
 	"start_date": "2019-01-05",
 	"end_date": "2024-01-05",
-	"daily": ["weather_code", "temperature_2m_max", "temperature_2m_min"],
+	"daily": ["temperature_2m_max", "temperature_2m_min"],
 	"timezone": "America/New_York"
 }
 responses = openmeteo.weather_api(url, params=params)
@@ -31,9 +31,8 @@ print(f"Timezone difference to GMT+0 {response.UtcOffsetSeconds()} s")
 
 # Process daily data. The order of variables needs to be the same as requested.
 daily = response.Daily()
-daily_weather_code = daily.Variables(0).ValuesAsNumpy()
-daily_temperature_2m_max = daily.Variables(1).ValuesAsNumpy()
-daily_temperature_2m_min = daily.Variables(2).ValuesAsNumpy()
+daily_temperature_2m_max = daily.Variables(0).ValuesAsNumpy()
+daily_temperature_2m_min = daily.Variables(1).ValuesAsNumpy()
 
 daily_data = {"date": pd.date_range(
 	start = pd.to_datetime(daily.Time(), unit = "s"),
@@ -41,10 +40,9 @@ daily_data = {"date": pd.date_range(
 	freq = pd.Timedelta(seconds = daily.Interval()),
 	inclusive = "left"
 )}
-daily_data["weather_code"] = daily_weather_code
 daily_data["temperature_2m_max"] = daily_temperature_2m_max
 daily_data["temperature_2m_min"] = daily_temperature_2m_min
 
 daily_dataframe = pd.DataFrame(data = daily_data)
-daily_dataframe.to_csv("data/weather_data.csv", index=False)
-print("Data saved to weather_data.csv")
+print(daily_dataframe)
+
