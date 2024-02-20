@@ -57,9 +57,9 @@ model = LSTMModel(input_size, hidden_size, output_size, num_layers, dropout)
 
 # Define loss function and optimizer with learning rate decay
 criterion = nn.MSELoss()
-learning_rate = 0.001
+learning_rate = 0.04
 optimizer = optim.Adam(model.parameters(), lr=learning_rate)
-scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=30, gamma=0.1)  # Learning rate decay
+scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=50, gamma=0.1)  # Learning rate decay
 
 # Train the model
 num_epochs = 500
