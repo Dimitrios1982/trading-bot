@@ -13,8 +13,10 @@ Clone the repository to your local machine
 
 Create and activate a virtual environment:
 * Windows
+'''
 python -m venv venv
 venv\Scripts\activate
+'''
 
 * Linux/Mac
 python3 -m venv venv
