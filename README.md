@@ -3,11 +3,11 @@
 The main goal is to analyze markets and be able to create buy/sell signals based on price movement, fundamentals and news sentiment.
 
 # Installation Guide
-Requirements
-Python 3.9 or higher
-pip (Python package installer)
+Requirements \
+Python 3.9 or higher \
+Pip (Python package installer)
 
-Installation Steps
+Installation Steps \
 Clone the repository to your local machine
 
 Create and activate a virtual environment:
