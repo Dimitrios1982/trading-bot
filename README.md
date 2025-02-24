@@ -2,6 +2,28 @@
 
 The main goal is to analyze markets and be able to create buy/sell signals based on price movement, fundamentals and news sentiment.
 
+# Installation Guide
+Requirements
+Python 3.9 or higher
+
+pip (Python package installer)
+
+Installation Steps
+Clone the repository to your local machine
+
+Create and activate a virtual environment:
+* Windows
+python -m venv venv
+venv\Scripts\activate
+
+* Linux/Mac
+python3 -m venv venv
+source venv/bin/activate
+
+Install required packages:
+pip install -r requirements.txt
+
+
 # DISCLAIMER
 This repository and all its contents are provided for informational and educational purposes only. The information presented here does not constitute financial advice, trading advice, or any other type of advice. All content, tools, and analyses shared in this repository:
 
